@@ -1,6 +1,5 @@
 
-# +++++++++++++++++++++++++
-# +++ Welcome index.md! +++
-# +++++++++++++++++++++++++
+
+# ** +++ Welcome index.md! +++ **
 
 [Back to about us](about.md)
