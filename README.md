@@ -1,9 +1,10 @@
 # My-Repo title using a Heading One Designation
 
 This will be a paragraph of examples
-First example is the italic using the asterik *This should be slanted*
-Second example is bolding a phrase, using the double asterik **This one should be in bold**
-Third example should be highlighted, using the backtik  `this phrase should be highlighted`
+
+First example is the italic using the asterik                   *This should be slanted*
+Second example is bolding a phrase, using the double asterik  **This one should be in bold**
+Third example should be highlighted, using the backtik          `this phrase should be highlighted`
 
 ##this should be the title for the second header title, smaller font
 
