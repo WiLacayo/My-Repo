@@ -1,12 +1,14 @@
 # My-Repo title using a Heading One Designation
 
-This will be a paragraph of examples
+## This will be a paragraph of examples:
 
-First example is the italic using the asterik                   *This should be slanted*
-Second example is bolding a phrase, using the double asterik  **This one should be in bold**
-Third example should be highlighted, using the backtik          `this phrase should be highlighted`
+First example is the italic using the single asterik * ------------------> *This should be slanted*
 
-##this should be the title for the second header title, smaller font
+Second example is bolding a phrase, using the double asterik ** ---> **This one should be in bold**
+
+Third example should be highlighted, using a single backtik ---------> `this phrase should be highlighted`
+
+## this should be the title for the second header title, smaller font:
 
 new paragraph including a Hyperlink
 example link: [Github help](https://help.github.com)
